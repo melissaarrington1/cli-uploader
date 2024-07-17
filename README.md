@@ -1,1 +1,1 @@
-# cli-uploader
+# CLI-uploader
